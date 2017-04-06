@@ -1,0 +1,5 @@
+BSFaceModel {
+ NSUInteger identifier
+ CGRect eyesRect
+ CGRect faceRect
+}
